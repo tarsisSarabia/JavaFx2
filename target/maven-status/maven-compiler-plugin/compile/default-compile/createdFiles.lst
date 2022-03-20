@@ -1,0 +1,10 @@
+com\tarsissarabia\javafx1\ViewController$1.class
+com\tarsissarabia\javafx1\App.class
+gui\util\Alerts.class
+gui\util\Constraints.class
+module-info.class
+com\tarsissarabia\javafx1\FXMLController.class
+com\tarsissarabia\javafx1\SecondaryController.class
+model\entities\Person.class
+com\tarsissarabia\javafx1\PrimaryController.class
+com\tarsissarabia\javafx1\ViewController.class
